@@ -10,6 +10,7 @@ Agnes Crepet <agnes@ninja-squad.com> <agnes.crepet@emse.fr>
 
 [[introduction]]
 == Introduction
+<<<<<<< HEAD
 IMPORTANT: _source : this tutorial is inspired on the https://gradle.org/[Gradle] official Documentation_
 and on a lab done internaly for http://ninja-squad.com[NinjaSquad] by the famous https://twitter.com/jbnizet[@jbnizet]
 
@@ -17,6 +18,11 @@ image::img/logogradle.png[]
 
 
 https://gradle.org/[Gradle] is a popular, open-source build tool like Ant or Maven with nice features :
+=======
+IMPORTANT: _source : the Gradle official Documentation_
+
+https://projects.spring.io/spring-framework[Gradle] is a popular, open-source build tool like Ant or Maven with nice features :
+>>>>>>> 154fa72... initial commit with adoc doc and html rendering
 
 * Build-by-convention as Maven. But we never lock you in!
 * Very powerful support for multi-project builds.
